@@ -7,6 +7,8 @@
 - I studied computer science at [Georgia Tech](https://www.cc.gatech.edu/). 🐝
 - I make [YouTube videos](https://www.youtube.com/@MichaelSambol) on data structures and algorithms. 👨🏻‍💻
 
+[Website](https://michaelsambol.com/) | [YouTube](https://www.youtube.com/@MichaelSambol) | [LinkedIn](https://www.linkedin.com/in/michael-sambol) | [Medium](https://michaelsambol.medium.com/) | [X](https://twitter.com/MikeSambol) | [Stack Overflow](https://stackoverflow.com/users/1978506/sambol) | [Certificates](https://www.credly.com/users/michael-sambol)
+
 -------
 
 **📝 Blog Posts**
