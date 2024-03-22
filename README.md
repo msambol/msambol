@@ -20,4 +20,4 @@
 
 -------
 
-<img align="center" src="https://cdk-stats.vercel.app/api?username=msambol"/>
+<img src="https://cdk-stats.vercel.app/api?username=msambol"/>
