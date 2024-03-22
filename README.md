@@ -2,10 +2,10 @@
 
 -------
 
-- I'm a software engineer from the United States. 🇺🇸
-- I work for [Workday](https://github.com/Workday) as a principal software engineer. ☀️
-- I studied computer science at [Georgia Tech](https://www.cc.gatech.edu/). 🐝
-- I make [YouTube videos](https://www.youtube.com/@MichaelSambol) on data structures and algorithms. 👨🏻‍💻
+- 🇺🇸 I'm a software engineer from the United States
+- ☀️ I work for [Workday](https://github.com/Workday) as a principal software engineer
+- 🐝 I studied computer science at [Georgia Tech](https://www.cc.gatech.edu/)
+- 👨🏻‍💻 I make [YouTube videos](https://www.youtube.com/@MichaelSambol) on data structures and algorithms
 
 [YouTube](https://www.youtube.com/@MichaelSambol) | [Website](https://michaelsambol.com/) | [Blog](https://michaelsambol.medium.com/) | [LinkedIn](https://www.linkedin.com/in/michael-sambol) | [X](https://twitter.com/MikeSambol) | [Stack Overflow](https://stackoverflow.com/users/1978506/sambol) | [Certificates](https://www.credly.com/users/michael-sambol)
 
