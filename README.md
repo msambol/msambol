@@ -17,3 +17,7 @@
 - [Process Millions of Amazon S3 Objects](https://michaelsambol.medium.com/process-millions-of-amazon-s3-objects-28e280ef9e0a)
 - [Observability with Amazon CloudWatch, AWS X-Ray, Prometheus, and Grafana](https://medium.com/cloud-native-daily/observability-with-amazon-cloudwatch-aws-x-ray-prometheus-and-grafana-b15708eeddbe)
 - [Build an HL7 Data Lake](https://michaelsambol.medium.com/build-an-hl7-data-lake-e029e4af9c51)
+
+-------
+
+<img align="center" src="https://cdk-stats.vercel.app/api?username=msambol"/>
