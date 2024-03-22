@@ -2,16 +2,14 @@
 
 -------
 
-I'm a software engineer from the United States. 🇺🇸\
-I work for [Workday](https://github.com/Workday) as a principal software engineer. ☀️\
-I studied computer science at [Georgia Tech](https://www.cc.gatech.edu/). 🐝\
-I make YouTube videos on data structures and algorithms. 👨🏻‍💻
-
-[Website](https://michaelsambol.com/) – [YouTube](https://www.youtube.com/@MichaelSambol) – [LinkedIn](https://www.linkedin.com/in/michael-sambol) – [Medium](https://michaelsambol.medium.com/) – [X](https://twitter.com/MikeSambol)
+- I'm a software engineer from the United States. 🇺🇸\
+- I work for [Workday](https://github.com/Workday) as a principal software engineer. ☀️\
+- I studied computer science at [Georgia Tech](https://www.cc.gatech.edu/). 🐝\
+- I make [YouTube videos](https://www.youtube.com/@MichaelSambol) on data structures and algorithms. 👨🏻‍💻
 
 -------
 
-**📝 Blog Posts**
+**📝 [Blog Posts](https://michaelsambol.medium.com/)**
 
 - [Detect Infinite Loops in Amazon S3 Access Logging](https://michaelsambol.medium.com/detect-infinite-loops-in-amazon-s3-access-logging-bd389efdc55f)
 - [Write Code with Machine Learning using Amazon CodeWhisperer](https://michaelsambol.medium.com/write-code-with-machine-learning-using-amazon-codewhisperer-fcfdd538e6c9)
