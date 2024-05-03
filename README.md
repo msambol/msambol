@@ -13,6 +13,7 @@
 
 **📝 Blog Posts**
 
+- [Reduce AWS Lambda Cost by Monitoring Memory Utilization](https://medium.com/p/66c29b9d4ce9)
 - [Detect Infinite Loops in Amazon S3 Access Logging](https://medium.com/p/bd389efdc55f)
 - [Write Code with Machine Learning using Amazon CodeWhisperer](https://medium.com/p/fcfdd538e6c9)
 - [Move Millions of Files from Amazon EC2 to Amazon S3 using AWS DataSync](https://medium.com/p/a15bb31a81a1)
