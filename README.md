@@ -6,6 +6,7 @@
 - ☀️ I work for [Workday](https://github.com/Workday) as a principal software engineer.
 - 🐝 I studied computer science at [Georgia Tech](https://www.cc.gatech.edu/).
 - 👨🏻‍💻 I make [YouTube videos](https://www.youtube.com/@MichaelSambol) on data structures and algorithms.
+- 🏗️ I built [YT Transcripts](https://www.yttranscripts.com) to translate and publish YouTube transcripts in multiple languages.
 
 [YouTube](https://www.youtube.com/@MichaelSambol) | [Website](https://michaelsambol.com/) | [Blog](https://michaelsambol.medium.com/) | [LinkedIn](https://www.linkedin.com/in/michael-sambol) | [X](https://twitter.com/MikeSambol) | [Stack Overflow](https://stackoverflow.com/users/1978506/sambol) | [Certificates](https://www.credly.com/users/michael-sambol)
 
